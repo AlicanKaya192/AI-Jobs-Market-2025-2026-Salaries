@@ -4,6 +4,9 @@
 
 This project provides a comprehensive Exploratory Data Analysis (EDA) of the global AI and Large Language Model (LLM) job market during 2025–2026. The study examines compensation trends, experience scaling, geographic distributions, remote work arrangement pricing, skill values, and the specialized premium offered to LLM engineering positions.
 
+> [!NOTE]
+> **Read the full writeup on Medium:** [The Uncomfortable Truth About AI Salaries: From 1,500+ Real Job Postings](https://medium.com/@alicankaya268/the-uncomfortable-truth-about-ai-salaries-from-1-500-real-job-postings-19ac76bd6f53)
+
 ---
 
 ## 📌 Table of Contents
@@ -139,6 +142,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 
 If you want to connect, collaborate, or check out more of my work, feel free to visit my profiles:
 
+- **Medium Article:** [The Uncomfortable Truth About AI Salaries: From 1,500+ Real Job Postings](https://medium.com/@alicankaya268/the-uncomfortable-truth-about-ai-salaries-from-1-500-real-job-postings-19ac76bd6f53)
 - **Personal Website:** [alican-kaya.com](https://alican-kaya.com/)
 - **Kaggle:** [alicankayaoni](https://www.kaggle.com/alicankayaoni)
 - **LinkedIn:** [Alican Kaya](https://www.linkedin.com/in/alican-kaya-881650234/)
