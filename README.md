@@ -14,6 +14,7 @@ This project provides a comprehensive Exploratory Data Analysis (EDA) of the glo
 5. [How to Run](#how-to-run)
 6. [Visualizations & Key Findings](#visualizations--key-findings)
 7. [License](#license)
+8. [Contact & Links](#contact--links)
 
 ---
 
@@ -131,3 +132,14 @@ Shows comparison metrics (Salary, Growth, Perks, Demand) between specialized LLM
 
 ## 📄 License
 This project is licensed under the terms of the [MIT License](LICENSE).
+
+---
+
+## 🔗 Contact & Links
+
+If you want to connect, collaborate, or check out more of my work, feel free to visit my profiles:
+
+- **Personal Website:** [alican-kaya.com](https://alican-kaya.com/)
+- **Kaggle:** [alicankayaoni](https://www.kaggle.com/alicankayaoni)
+- **LinkedIn:** [Alican Kaya](https://www.linkedin.com/in/alican-kaya-881650234/)
+
